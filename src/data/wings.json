@@ -1,0 +1,46 @@
+{
+  "wings": [
+    {
+      "id": "premise",
+      "number": "01",
+      "emoji": "✦",
+      "title": "The Premise",
+      "description": "The front door to the archive — who Emily is, where Corbonia is, and how a crown princess ended up punching supervillains in Los Angeles."
+    },
+    {
+      "id": "main-five",
+      "number": "02",
+      "emoji": "⭐",
+      "title": "The Main Five",
+      "description": "The core ensemble at the heart of the show: Emily, Jim, Sarah, Carl, and Alan — with full dossiers on each."
+    },
+    {
+      "id": "la-locals",
+      "number": "03",
+      "emoji": "🌴",
+      "title": "L.A. Locals",
+      "description": "The neighbors, news anchors, teachers, and tech geniuses who make Emily's new life in California so remarkable."
+    },
+    {
+      "id": "royal-family",
+      "number": "04",
+      "emoji": "👑",
+      "title": "The Royal Family",
+      "description": "The House of Emberlight — a formal heraldic registry of Corbonia's ruling family, titles, and emblems."
+    },
+    {
+      "id": "atlas",
+      "number": "05",
+      "emoji": "🗺️",
+      "title": "The Atlas & Glossary",
+      "description": "Every proper noun, place, and piece of terminology from the series, defined and cross-linked."
+    },
+    {
+      "id": "connections",
+      "number": "06",
+      "emoji": "🔗",
+      "title": "Cross-Links & Connections",
+      "description": "A relationship index that lets you travel sideways through the cast instead of scrolling down."
+    }
+  ]
+}

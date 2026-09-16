@@ -1,0 +1,203 @@
+{
+  "groups": [
+    {
+      "id": "main-five",
+      "name": "The Main Five",
+      "emoji": "⭐",
+      "characters": [
+        {
+          "id": "emily",
+          "name": "Princess Emily",
+          "alias": "Super Ruby",
+          "emoji": "👑",
+          "role": "Crown Princess of Corbonia / Captain Man's Sidekick",
+          "summary": "A kind-hearted, wise, and spirited white-haired princess from Corbonia, now living in Los Angeles and moonlighting as Captain Man's superhero sidekick. Equipped with gadgets and a piece of transformation bubblegum, she'll always be there for her friends and family — even if she has to go save the world first.",
+          "traits": [
+            "Kind-hearted",
+            "Spirited",
+            "Wise",
+            "Naive",
+            "Loyal",
+            "Resourceful",
+            "Inquisitive"
+          ],
+          "note": "Her royal emblem is a rhombus holding a two-colored heart — blue for royal bloodline, white for purity."
+        },
+        {
+          "id": "jim",
+          "name": "Jim Morton",
+          "alias": "Captain Man",
+          "emoji": "💥",
+          "role": "Indestructible Superhero / Owner of the Bonbon Antique Store",
+          "summary": "As a child, Jim accidentally skateboarded into his father's Trans-Molecular Densitizer and became an indestructible superhuman. Today he fights crime in Los Angeles from the Man Cave beneath his antique shop — and he has a very obvious, very inconvenient crush on a married queen.",
+          "traits": ["Heroic", "Bumbling", "Confident", "Flirtatious", "Protective"],
+          "note": "His Man Cave is hidden underneath the Bonbon Antique Store."
+        },
+        {
+          "id": "sarah",
+          "name": "Sarah Johnson",
+          "alias": null,
+          "emoji": "🎯",
+          "role": "Emily's Best Friend / Manager of Captain Man & Super Ruby",
+          "summary": "The self-appointed sass master of the posse, Sarah is sarcastic, clever, and always ready to pull everyone back to reality. She's been Emily's friend since the Princess's move to L.A. — and she's the only one who can call her a pollyanna to her face.",
+          "traits": ["Sarcastic", "Clever", "Witty", "Honest", "Loyal"],
+          "note": "She becomes Emily and Jim's manager after discovering the secret in the fourth episode."
+        },
+        {
+          "id": "carl",
+          "name": "Carl Johnson",
+          "alias": null,
+          "emoji": "📱",
+          "role": "Sarah's Younger Brother / President of Man Fans",
+          "summary": "Easily angered by social media, a terrible cook, and constantly annoyed by Alan's antics, Carl is the show's resident grump — but he slowly softens from Season 3 onward, and he may have a crush on a certain mischievous princess.",
+          "traits": ["Grumpy", "Angered", "Competitive", "Secretly Soft", "Loyal"],
+          "note": "Becomes president of Man Fans, the Captain Man and Super Ruby fan club, in the eleventh episode."
+        },
+        {
+          "id": "alan",
+          "name": "Alan Newsom",
+          "alias": null,
+          "emoji": "🪣",
+          "role": "Emily's Best Friend from Canada / Idea Machine",
+          "summary": "Full of ideas — most of them not worth considering — Alan collects buckets (until Season 3), asks a lot of questions, and embarrasses Emily and Sarah on a near-weekly basis. He's also a huge Captain Man fan.",
+          "traits": ["Idea-Filled", "Curious", "Enthusiastic", "Awkward", "Loyal"],
+          "note": "Learns Emily's royal origins in the eleventh episode and her superhero identity in the Season 2 finale."
+        }
+      ]
+    },
+    {
+      "id": "la-locals",
+      "name": "L.A. Locals",
+      "emoji": "🌴",
+      "characters": [
+        {
+          "id": "greg",
+          "name": "Greg Johnson",
+          "alias": null,
+          "emoji": "🏗️",
+          "role": "Project Manager / Sarah and Carl's Father",
+          "summary": "Loving, caring, and endearingly childish — Greg is the kind of dad who'd rather play than parent, and everyone loves him for it.",
+          "traits": ["Loving", "Caring", "Childish", "Warm"]
+        },
+        {
+          "id": "marina",
+          "name": "Marina Johnson",
+          "alias": null,
+          "emoji": "☕",
+          "role": "Sarah and Carl's Mother",
+          "summary": "Oblivious to Captain Man's crush on her — a running gag that later shifted to Queen Carola in the show's later seasons.",
+          "traits": ["Warm", "Oblivious", "Grounded"]
+        },
+        {
+          "id": "janssen",
+          "name": "Dr. Olof Janssen",
+          "alias": null,
+          "emoji": "🔬",
+          "role": "Swedish Scientist / Jim's Tech Sidekick",
+          "summary": "The man who built the Man Cave. His friendship with Jim was strained for years after he stole his girlfriend, until Emily convinced Jim to forgive him. Since then, his inventions have helped Captain Man and Super Ruby — even if he himself can be weird and hilarious.",
+          "traits": ["Brilliant", "Weird", "Funny", "Inventive"]
+        },
+        {
+          "id": "bonbon",
+          "name": "Mr. Bonbon",
+          "alias": "Richard Bonbon",
+          "emoji": "🏺",
+          "role": "Owner of the Bonbon Antique Store",
+          "summary": "The shopkeeper who alerts Captain Man and Super Ruby of crimes across Los Angeles — and acts as lookout for the Man Cave.",
+          "traits": ["Watchful", "Loyal", "Quiet"]
+        },
+        {
+          "id": "trent",
+          "name": "Trent Overunder",
+          "alias": null,
+          "emoji": "📺",
+          "role": "Newsman at KLAX News",
+          "summary": "The voice of L.A.'s heroic coverage — reporting on Captain Man's activities with the gravity of a man who has seen it all.",
+          "traits": ["Professional", "Dramatic", "Earnest"]
+        },
+        {
+          "id": "mary",
+          "name": "Mary Gaperman",
+          "alias": null,
+          "emoji": "🎙️",
+          "role": "Co-Anchor at KLAX News",
+          "summary": "Trent's co-anchor, frequently annoyed when he interrupts or changes the subject mid-broadcast.",
+          "traits": ["Poised", "Impatient", "Professional"]
+        },
+        {
+          "id": "beatrix",
+          "name": "Beatrix Boreen",
+          "alias": null,
+          "emoji": "📚",
+          "role": "Emily's History Teacher",
+          "summary": "Cynical, sharp, and harboring a very obvious crush on Captain Man — much to the discomfort of everyone who knows.",
+          "traits": ["Cynical", "Sharp", "Infatuated"]
+        },
+        {
+          "id": "terrence",
+          "name": "Terrence Willard",
+          "alias": null,
+          "emoji": "🏛️",
+          "role": "Vice Mayor of Los Angeles",
+          "summary": "The city's second-in-command, occasionally caught in the crossfire of L.A.'s superhero chaos.",
+          "traits": ["Political", "Cautious", "Official"]
+        }
+      ]
+    },
+    {
+      "id": "royal-family",
+      "name": "The Royal Family of Corbonia",
+      "emoji": "👑",
+      "characters": [
+        {
+          "id": "howard",
+          "name": "King Howard",
+          "alias": null,
+          "emoji": "🤴",
+          "role": "King of Corbonia",
+          "summary": "Wise, regal, and responsible — until he steps into domestic life or visits L.A., where he becomes endearingly goofy. He shares the throne with Queen Carola and, after learning Emily's secret in Season 3, chooses to stay out of the superhero business.",
+          "traits": ["Regal", "Wise", "Responsible", "Loving", "Occasionally Goofy", "Hands-Off"],
+          "note": "Title: King of Corbonia."
+        },
+        {
+          "id": "carola",
+          "name": "Queen Carola",
+          "alias": null,
+          "emoji": "👸",
+          "role": "Queen Consort of Corbonia",
+          "summary": "Born Princess of Wicktopia and Duchess of Tripollas, Carola became Corbonia's queen upon marrying King Howard. She is regal, serious, and even stricter than Howard — but she has a soft spot for her children, and after Emily's secret is revealed she becomes the posse's unofficial ally, always reminding her daughter of the core duties of a royal princess.",
+          "traits": [
+            "Regal",
+            "Serious",
+            "Strict",
+            "Caring",
+            "Protective",
+            "Supportive",
+            "Discerning"
+          ],
+          "note": "Title: Queen Consort of Corbonia (formerly Princess of Wicktopia and Duchess of Tripollas)."
+        },
+        {
+          "id": "francis",
+          "name": "Prince Francis",
+          "alias": null,
+          "emoji": "📖",
+          "role": "Prince of Corbonia",
+          "summary": "Emily's eight-year-old younger brother and twin to Princess Georgia. A book-loving, intelligent introvert — quiet, observant, and calm, unlike his hyperactive twin. He joins Emily's posse in the Season 2 premiere.",
+          "traits": ["Intelligent", "Introverted", "Book-Loving", "Observant", "Calm"],
+          "note": "Per royal protocol, as a male member he carries no royal emblem — that privilege is reserved strictly for female members."
+        },
+        {
+          "id": "georgia",
+          "name": "Princess Georgia",
+          "alias": "Georgina",
+          "emoji": "🌟",
+          "role": "Princess of Corbonia",
+          "summary": "The royal house's youngest child — adorable, lively, and mischievous, with an inquisitive nature that lands her in precarious situations (especially in the eyes of Queen Carola). She's the most popular royal in the kingdom, shares a strong bond with Emily, and joins the group in the Season 2 premiere as its emergency hotline manager.",
+          "traits": ["Adorable", "Lively", "Inquisitive", "Curious", "Enthusiastic", "Spirited"],
+          "note": "Her royal emblem is a circle holding a gold star and sparks — generally reflecting Georgia herself."
+        }
+      ]
+    }
+  ]
+}
