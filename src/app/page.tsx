@@ -4,8 +4,6 @@ import premiseData from "@/data/premise.json";
 import wingsData from "@/data/wings.json";
 import charactersData from "@/data/groups.json";
 
-import SiteHeader from "@/components/layout/SiteHeader";
-import SiteFooter from "@/components/layout/SiteFooter";
 import Hero from "@/components/home/Hero";
 import PremiseSection from "@/components/home/PremiseSection";
 import WingsGrid from "@/components/home/WingsGrid";
@@ -20,14 +18,12 @@ export default function HomePage() {
 
   return (
     <>
-      <SiteHeader />
       <main className="flex-1">
         <Hero premise={premise} />
         <PremiseSection premise={premise} />
         <WingsGrid wings={wings} />
         {mainFive && <MainFiveSpotlight group={mainFive} />}
       </main>
-      <SiteFooter />
     </>
   );
 }

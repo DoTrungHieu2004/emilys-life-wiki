@@ -2,6 +2,7 @@
   "wings": [
     {
       "id": "premise",
+      "href": "/premise",
       "number": "01",
       "emoji": "✦",
       "title": "The Premise",
@@ -9,6 +10,7 @@
     },
     {
       "id": "main-five",
+      "href": "/main-five",
       "number": "02",
       "emoji": "⭐",
       "title": "The Main Five",
@@ -16,6 +18,7 @@
     },
     {
       "id": "la-locals",
+      "href": "/la-locals",
       "number": "03",
       "emoji": "🌴",
       "title": "L.A. Locals",
@@ -23,6 +26,7 @@
     },
     {
       "id": "royal-family",
+      "href": "/royal-family",
       "number": "04",
       "emoji": "👑",
       "title": "The Royal Family",
@@ -30,6 +34,7 @@
     },
     {
       "id": "atlas",
+      "href": "/atlas",
       "number": "05",
       "emoji": "🗺️",
       "title": "The Atlas & Glossary",
@@ -37,6 +42,7 @@
     },
     {
       "id": "connections",
+      "href": "/connections",
       "number": "06",
       "emoji": "🔗",
       "title": "Cross-Links & Connections",

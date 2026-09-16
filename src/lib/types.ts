@@ -36,3 +36,12 @@ export interface CharacterGroup {
   emoji: string;
   characters: Character[];
 }
+
+export interface Wing {
+  id: string;
+  href: string;
+  number: string;
+  emoji: string;
+  title: string;
+  description: string;
+}
